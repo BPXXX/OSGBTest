@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OSGBLibrary.cpp.obj": [
+			"OSGBLibrary.cpp.obj",
+			"OSGBLibraryBPLibrary.cpp.obj"
+		],
+		"Module.OSGBLibrary.gen.cpp.obj": [
+			"OSGBLibrary.init.gen.cpp.obj",
+			"OSGBLibraryBPLibrary.gen.cpp.obj"
+		]
+	}
+}

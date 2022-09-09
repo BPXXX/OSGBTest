@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OSGBLibrary-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\OSGBTest\OSGBTest\Intermediate\Build\Win64\OSGBTestEditor\Development\Engine\SharedPCH.Engine.RTTI.ShadowErrors.h.obj"
+"D:\Projects\OSGBTest\OSGBTest\Plugins\OSGBLibrary\Intermediate\Build\Win64\UnrealEditor\Development\OSGBLibrary\Module.OSGBLibrary.cpp.obj"
+"D:\Projects\OSGBTest\OSGBTest\Plugins\OSGBLibrary\Intermediate\Build\Win64\UnrealEditor\Development\OSGBLibrary\Module.OSGBLibrary.gen.cpp.obj"
+"D:\Projects\OSGBTest\OSGBTest\Plugins\OSGBLibrary\Intermediate\Build\Win64\UnrealEditor\Development\OSGBLibrary\Default.rc2.res"
+/OUT:"D:\Projects\OSGBTest\OSGBTest\Plugins\OSGBLibrary\Intermediate\Build\Win64\UnrealEditor\Development\OSGBLibrary\UnrealEditor-OSGBLibrary-0004.lib"

@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\projects\\osgbtest\\osgbtest\\plugins\\osgblibrary\\intermediate\\build\\win64\\unrealeditor\\development\\osgblibrary\\module.osgblibrary.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\osgbtest\\osgbtest\\intermediate\\build\\win64\\osgbtesteditor\\development\\engine\\sharedpch.engine.rtti.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\projects\\osgbtest\\osgbtest\\plugins\\osgblibrary\\intermediate\\build\\win64\\unrealeditor\\development\\osgblibrary\\definitions.osgblibrary.h",
+            "d:\\projects\\osgbtest\\osgbtest\\plugins\\osgblibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\osgblibrary\\osgblibrary.init.gen.cpp",
+            "d:\\projects\\osgbtest\\osgbtest\\plugins\\osgblibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\osgblibrary\\osgblibrarybplibrary.gen.cpp",
+            "d:\\projects\\osgbtest\\osgbtest\\plugins\\osgblibrary\\source\\osgblibrary\\public\\osgblibrarybplibrary.h",
+            "d:\\projects\\osgbtest\\osgbtest\\plugins\\osgblibrary\\intermediate\\build\\win64\\unrealeditor\\inc\\osgblibrary\\osgblibrarybplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
